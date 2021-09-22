@@ -31,5 +31,5 @@ int main(){
         cout << "Wrong month number" << endl;
     }
 
-    return 1
+    return 1;
 }
